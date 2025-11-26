@@ -1,6 +1,7 @@
 [submodule "e2sim-kpmv3"]
 	path = e2sim-kpmv3
-	url = https://github.com/MinaYonan123/e2sim-kpmv3.git
+	url = https://github.com/JJinsup/e2sim-kpmv3-RCv1.03
 [submodule "mmwave-LENA-oran"]
 	path = mmwave-LENA-oran
-	url = https://github.com/MinaYonan123/mmwave-LENA-oran.git
+	url = https://github.com/JJinsup/mmwave-LENA-oran.git
+	branch = lab602
